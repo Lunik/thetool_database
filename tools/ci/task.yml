@@ -1,0 +1,12 @@
+---
+
+version: 1
+
+name: task
+description: Task is a task runner / build tool that aims to be simpler and easier to use than, for example, GNU Make.
+url: https://taskfile.dev
+version_url: https://api.github.com/repos/go-task/task/releases/latest
+version_format: github_release
+download_url: https://github.com/go-task/task/releases/download/v{version}/task_{os}_{arch}.tar.gz
+download_format: tar.gz
+download_archive_bin: task

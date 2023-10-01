@@ -1,0 +1,12 @@
+---
+
+version: 1
+
+name: helm
+description: The Kubernetes Package Manager
+url: https://helm.sh
+version_url: https://api.github.com/repos/helm/helm/releases/latest
+version_format: github_release
+download_url: https://get.helm.sh/helm-v{version}-{os}-{arch}.tar.gz
+download_format: tar.gz
+download_archive_bin: '{os}-{arch}/helm'

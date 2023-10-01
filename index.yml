@@ -8,3 +8,15 @@ tools:
 
   terraform:
     metadata: tools/iac/terraform.yml
+
+  k9s:
+    metadata: tools/container/k9s.yml
+
+  task:
+    metadata: tools/ci/task.yml
+
+  helm:
+    metadata: tools/container/helm.yml
+
+  kubent:
+    metadata: tools/container/kubent.yml

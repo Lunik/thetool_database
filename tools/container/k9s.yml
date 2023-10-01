@@ -1,0 +1,12 @@
+---
+
+version: 1
+
+name: k9s
+description: Kubernetes CLI To Manage Your Clusters In Style!
+url: https://k9scli.io
+version_url: https://api.github.com/repos/derailed/k9s/releases/latest
+version_format: github_release
+download_url: https://github.com/derailed/k9s/releases/download/v{version}/k9s_{os}_{arch}.tar.gz
+download_format: tar.gz
+download_archive_bin: k9s
