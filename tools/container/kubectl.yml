@@ -1,0 +1,11 @@
+---
+
+version: 1
+
+name: kubectl
+description: Kubernetes CLI
+url: https://kubernetes.io/docs/reference/kubectl/
+version_url: https://storage.googleapis.com/kubernetes-release/release/stable.txt
+version_format: plain
+download_url: https://storage.googleapis.com/kubernetes-release/release/v{version}/bin/{os}/{arch}/kubectl
+download_format: bin

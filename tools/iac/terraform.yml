@@ -1,0 +1,12 @@
+---
+
+version: 1
+
+name: terraform
+description: Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently.
+url: https://www.terraform.io/
+version_url: https://api.github.com/repos/hashicorp/terraform/releases/latest
+version_format: github_release
+download_url: https://releases.hashicorp.com/terraform/{version}/terraform_{version}_{os}_{arch}.zip
+download_format: zip
+download_zip_bin: terraform
